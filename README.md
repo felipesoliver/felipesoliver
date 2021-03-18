@@ -16,14 +16,16 @@ Skills with the following tools:
 
 ▪︎  Version Control: Git / GitHub
 
-## My Stats:
+## :mortar_board: My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesoliver&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoliver&theme=gotham&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact:
+## :envelope: Contact:
 
-&#128075; Get in touch: [![Twitter Badge](https://img.shields.io/badge/-@f_soliver-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/f_soliver)](https://twitter.com/f_soliver) [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fsoliver/)](https://www.linkedin.com/in/fsoliver/) 
+&#128075; Get in touch:
+
+[![Twitter Badge](https://img.shields.io/badge/-@f_soliver-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/f_soliver)](https://twitter.com/f_soliver) [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fsoliver/)](https://www.linkedin.com/in/fsoliver/) 
 [![Gmail Badge](https://img.shields.io/badge/-felipephito@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:felipephito@gmail.com)](mailto:felipephito@gmail.com)
 

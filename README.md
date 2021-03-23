@@ -12,7 +12,7 @@
 >
 >-  Code Pre-Processing: Sass / Compass
 >
->-  Frameworks n' Rest APIs: BootStrap - React - Angular - Ionic
+>-  Frameworks: BootStrap - React - Angular - Ionic
 >
 >-  Version Control: Git / GitHub
 

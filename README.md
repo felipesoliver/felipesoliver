@@ -2,7 +2,7 @@
 
 ## :boy: About me:
 
-> I'm a front-end developer who focuses on writing clean, semantics and efficient code, with experience in programming, development of accessible and responsive web, desktop and > mobile applications.
+> I'm a front-end developer who focuses on writing clean, semantics and efficient code, with experience in programming, development of accessible and responsive web, desktop and  mobile applications.
 
 ## :computer: Techs Skills:
 

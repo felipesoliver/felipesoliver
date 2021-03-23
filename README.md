@@ -8,13 +8,13 @@
 
 > Skills with the following tools:
 >
-> -  Web n' Mobile Development: HTML5, CSS3 & JavaScript ( TypeScript )
+>-  Web n' Mobile Development: HTML5, CSS3 & JavaScript ( TypeScript )
 >
-> -  Code Pre-Processing: Sass / Compass
+>-  Code Pre-Processing: Sass / Compass
 >
-> -  Frameworks n' Rest APIs: BootStrap - React - Angular - Ionic
+>-  Frameworks n' Rest APIs: BootStrap - React - Angular - Ionic
 >
-> -  Version Control: Git / GitHub
+>-  Version Control: Git / GitHub
 
 ## :mortar_board: My Stats:
 

@@ -1,22 +1,10 @@
 # Hey There, this is Felipe! :v:
 
-## :boy: About me:
+## About me:
 
  I'm a front-end developer who focuses on writing clean, semantics and efficient code, with experience in programming, development of accessible and responsive web, desktop and  mobile applications.
 
-## :computer: Techs Skills:
-
- Skills with the following tools:
-
--  Web n' Mobile Development: HTML5, CSS3 & JavaScript ( TypeScript )
-
--  Code Pre-Processing: Sass / Compass
-
--  Frameworks: BootStrap - React - Angular - Ionic
-
--  Version Control: Git / GitHub
-
-## :envelope: Contact:
+## Contact:
 
 &#128075; Get in touch:
 

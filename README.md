@@ -21,11 +21,11 @@
   <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/react-fill.svg" height="40" alt="react logo"  />
   <img width="8" />
-  <img src="https://foliveira-payload.vercel.app/api/media/file/php-fill.svg" height="40" alt="php logo"  />
+  <img src="https://foliveira-payload.vercel.app/api/media/file/nextjs-fill.svg" height="40" alt="nextjs logo"  />
   <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/tailwind.svg" height="40" alt="tailwindcss logo"  />
   <img width="8" />
-  <img src="https://foliveira-payload.vercel.app/api/media/file/nextjs-fill.svg" height="40" alt="nextjs logo"  />
+  <img src="https://foliveira-payload.vercel.app/api/media/file/php-fill.svg" height="40" alt="php logo"  />
   <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/nodejs-alt(1).svg" height="40" alt="nodejs logo"  />
   <img width="8" />

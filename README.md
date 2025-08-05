@@ -12,24 +12,26 @@
 
 <div align="left">
   <img src="https://foliveira-payload.vercel.app/api/media/file/html-fill.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/css-fill2.svg" height="40" alt="css logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/javascript-fill.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/typescript.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/react-fill.svg" height="40" alt="react logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/php-fill.svg" height="40" alt="php logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/tailwind.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/nextjs-fill.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/nodejs-alt(1).svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://foliveira-payload.vercel.app/api/media/file/aws(1)2.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="8" />
+  <img src="https://foliveira-payload.vercel.app/api/media/file/jest.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
@@ -47,6 +49,9 @@
   </a>
   <a href="https://www.behance.net/felipephitcdcd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=fff&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="mailto:felipephito@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=fff&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 

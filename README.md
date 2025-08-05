@@ -62,7 +62,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipesoliver&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=felipesoliver&locale=en&mode=daily&theme=city_lights&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
